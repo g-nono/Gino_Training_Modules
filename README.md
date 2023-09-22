@@ -46,3 +46,6 @@ https://www.youtube.com/playlist?list=PLx9E42nXSSoV-TdIYiDD0lcRF8ixSIYsV
    "cp" command
    EXAMPLES: "cp file1.txt copiedfile1.txt"
              "cp file1.txt copiedfile1.txt /directory"
+
+
+![linuxterminalbasics](https://github.com/g-nono/Gino_Training_Modules/assets/25494635/73522fd6-afc2-4c10-a5f0-2069764da76a)
