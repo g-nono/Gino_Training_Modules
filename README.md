@@ -49,3 +49,31 @@ https://www.youtube.com/playlist?list=PLx9E42nXSSoV-TdIYiDD0lcRF8ixSIYsV
 
 
 ![linuxterminalbasics](https://github.com/g-nono/Gino_Training_Modules/assets/25494635/73522fd6-afc2-4c10-a5f0-2069764da76a)
+
+
+
+
+
+# Module Two
+
+## Answers:
+1. How do you add a single-line comment in Python?
+   "# Comment here"
+
+2. How do you add a single-line comment in C++?
+   "// Comment here"
+
+4. How do you add a multi-line comment in Python?
+   " ''' Comment start
+   . . . . . Comment end ''' "
+
+5. How do you add a multi-line comment in C++?
+   " /* Comment start
+   . . . . . Comment end *\ "
+
+
+
+
+## Question 8 Documentation
+__Description:__
+The purpose of this is to ask the user for two numbers, then decide if the sum of the two numbers is even or odd.
